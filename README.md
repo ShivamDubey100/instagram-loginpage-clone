@@ -1,2 +1,10 @@
 # instagram-loginpage-clone
-I've created a clone of instagram loginpage
+
+I've created the frontend clone of Instagram Login Project
+
+Screenshot:
+
+
+Technologies Used:
+
+HTML, CSS, Javascript
